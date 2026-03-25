@@ -4,6 +4,6 @@ A Grammar of Graphics plotting library for Common Lisp.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/quick-plot.git   |
-| commit  | 0000000                                            |
+| commit  | 44024c0                                            |
 | systems | quick-plot                                         |
 |---------+----------------------------------------------------|
